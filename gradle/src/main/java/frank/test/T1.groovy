@@ -10,3 +10,6 @@ println array.class
 def myFun(){
     "abc"
 }
+
+
+println "nihao ${name.toUpperCase()}"
